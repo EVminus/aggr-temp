@@ -1,0 +1,5 @@
+histogram({
+  time: time,
+  value: (vbuy - vsell),
+  color: vbuy > vsell ? 'green' : 'red'
+})
