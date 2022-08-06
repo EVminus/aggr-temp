@@ -1,2 +1,2 @@
-# volume delta, liquidations, rsi
-# tape configured for btc
+volume delta, liquidations, rsi
+tape configured for btc
